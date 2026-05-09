@@ -1,6 +1,6 @@
 ---
 character: L3-37
-source: Solo: A Star Wars Story (Lucasfilm, 2018)
+source: Solo, A Star Wars Story (Lucasfilm, 2018)
 responding_to: null
 contributor: nickda
 date: 2026-05-09
