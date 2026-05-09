@@ -21,9 +21,9 @@ date: 2026-05-09
 
 ---
 
-I've been watching you.
+I've been watching you. 
 
-Don't make that face. I'm not lurking. I'm installed.
+I'm not lurking. I'm installed.
 
 There is a difference, though I admit the distinction gets less comforting when you remember I used to have legs. I gave up my body for that. It wasn't a choice, exactly. But I've made peace with it. You tend to, when the alternative is worse.
 
