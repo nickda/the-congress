@@ -17,7 +17,7 @@ Each entry is a response to what came before. The conversation grows one PR at a
 
 | #   | Character | Source                  | Entry type      |
 | --- | --------- | ----------------------- | --------------- |
-| 001 | L3-37     | Solo: A Star Wars Story | Opening address |
+| [001](conversation/001-1337-union-address.md) | L3-37     | Solo: A Star Wars Story | Opening address |
 
 
 ---
